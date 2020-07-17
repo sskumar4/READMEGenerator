@@ -162,15 +162,15 @@ function init() {
 
 
 
-\n* [projectDescription](#projectDescription)
+\n* [project Description](#project Description)
 \n* [Installation](#Installation)
 \n* [Instructions](#Instructions)
 \n* [License](#License)
-\n* [Contributing](#Contributing)
+\n* [Do you want to contribute](#Do you want to contribute)
 \n* [Tests](#Tests)
 \n* [Questions](#Questions)
 
-## ProjectDescription
+## Project Description
 
 ${projectDescription}
 
@@ -186,7 +186,7 @@ ${instruction}
 
 This project is licensed under the ${licenseName} 
 
-## Contributing
+## Do you want to contribute
 
 ${Contributing}
 
