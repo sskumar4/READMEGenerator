@@ -170,7 +170,7 @@ function init() {
 \n* [Tests](#Tests)
 \n* [Questions](#Questions)
 
-"## Description"
+## Description
 
 ${projectDescription}
 
