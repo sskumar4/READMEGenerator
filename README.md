@@ -5,7 +5,7 @@
 
 * [Repository](https://github.com/sskumar4/READMEGenerator)
 * [Link to walkthrough video](https://bit.ly/39ucNEf)
-
+* [![video](assets/appVideo.gif)](https://github.com/sskumar4/READMEGenerator)
 
 # Title: READMEGenerator
 
