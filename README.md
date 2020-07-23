@@ -1,17 +1,16 @@
 
- [![picture 2](assets/RG.JPG)](https://sskumar4.github.io/ReadmeG/)
+ [![picture 2](assets/RG.JPG)](https://github.com/sskumar4/READMEGenerator)
 
-# Links to walthrough video and repository:
+# Links to walkthrough video and repository:
 
 * [Repository](https://github.com/sskumar4/READMEGenerator)
 * [Link to walkthrough video](https://bit.ly/39ucNEf)
 
 
-# Project Name: READMEGenerator
 # Title: READMEGenerator
 
 # Introduction:   
-create a command-line application that dynamically generates a professional README.md from a user's input using the inquirer package. The application will be invoked with the following command: node index.js
+Create a command-line application that dynamically generates a professional README.md from a user's input using the inquirer package. The application will be invoked with the following command: node index.js
 
 # Technologies: 
 Javascript
@@ -34,10 +33,10 @@ Features of the application:
 
 #Sample README.md created using the application
 
-[![License](https://img.s
-hields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-# 1 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Code Quiz
 
+## Table of Contents
 * [Description](#Description)
 
 * [Installation](#Installation)
@@ -52,19 +51,18 @@ hields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/
 
 * [Questions](#Questions)
 ## Description
-1
+A timed quiz app using JavaScript that stores high scores. Code uiz consists of multiple-choice questions with color change and sound feature for right and wrong answer. The app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+
 ## Installation
-1
+No installation needed. Clone the application repositary and run locally using a browser or deploy in a website and view in the browser.
+
 ## Instructions
-1
+User is presented with a start quiz button to begin the quiz. A timer starts with total 75 secs in the top right of the app and immediately the user is presented with a question. When one question is answered, the user is presented with another question (Upto seven questions). A "Right" or "Wrong" message is displayed below the multiple choice questions when a user selects an answer. When the answer is correct, a sound is heard and the button color turns green. When the answer is incorrect, a sound is heard and the button color turns red. Also 10 seconds is subtracted from the timer for each incorrect answer. The quiz ends When all questions are answered or the timer reaches 0. When the quiz is over, the user can save their initials and the time score. The user can start a new quiz by clicking "Go Back" button.
 ## License 
 This project is licensed under the [Apache-2.0](https://opensource.org/licenses/Apache-2.0) License.  
 ## Contribute
 Please use my e-mail to contact me on how to contribute to this project.
 ## Tests
-1
+No automated tests written for this app. Launch the app and answer the questions, a README.md is generated at the end.
 ## Questions
-https://github.com/1
-
-
-1
+https://github.com/sskumar4
