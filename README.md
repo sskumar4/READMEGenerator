@@ -1,4 +1,6 @@
 
+# Title: READMEGenerator
+
  [![picture 2](assets/RG.JPG)](https://github.com/sskumar4/READMEGenerator)
 
 # Links to walkthrough video and repository:
@@ -6,16 +8,16 @@
 * [Repository](https://github.com/sskumar4/READMEGenerator)
 * [Link to walkthrough video](https://bit.ly/39ucNEf)
 * [![video](assets/appVideo.gif)](https://github.com/sskumar4/READMEGenerator)
+* [Link to sample README.md created using the application](https://bit.ly/2EmQHbm)
 
-# Title: READMEGenerator
 
-# Introduction:   
+## Introduction:   
 Create a command-line application that dynamically generates a professional README.md from a user's input using the inquirer package. The application will be invoked with the following command: node index.js
 
-# Technologies: 
+## Technologies: 
 Javascript
 
-# Features
+## Features
 Created the following 
 js file: index.js
   
@@ -30,10 +32,10 @@ Features of the application:
   * When the user clicks on the links in the Table of Contents then the user is taken to the corresponding section of the README
 
 
-
-#Sample README.md created using the application
+## Sample README.md created using the application
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # Code Quiz
 
 ## Table of Contents
@@ -50,6 +52,7 @@ Features of the application:
 * [Tests](#Tests)
 
 * [Questions](#Questions)
+
 ## Description
 A timed quiz app using JavaScript that stores high scores. Code uiz consists of multiple-choice questions with color change and sound feature for right and wrong answer. The app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
 
