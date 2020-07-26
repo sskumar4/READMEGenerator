@@ -31,7 +31,7 @@ Features of the application:
   * When the user clicks on the links in the Table of Contents then the user is taken to the corresponding section of the README
 
 
-## Sample README.md created using the application
+## Sample README created using the application
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
