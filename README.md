@@ -3,13 +3,12 @@
 
  [![picture 2](assets/RG.JPG)](https://github.com/sskumar4/READMEGenerator)
 
-# Links to walkthrough video and repository:
+## Links:
 
 * [Repository](https://github.com/sskumar4/READMEGenerator)
 * [Link to walkthrough video](https://bit.ly/39ucNEf)
 * [![video](assets/appVideo.gif)](https://github.com/sskumar4/READMEGenerator)
-* [Link to sample README.md created using the application](https://bit.ly/2EmQHbm)
-
+* [Link to sample README.md created using the application](#Sample-README-created using-the-application)
 
 ## Introduction:   
 Create a command-line application that dynamically generates a professional README.md from a user's input using the inquirer package. The application will be invoked with the following command: node index.js
